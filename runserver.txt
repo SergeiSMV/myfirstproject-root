@@ -4,7 +4,7 @@ py manage.py runserver
 git init - инициализировать git
 git status - посмотреть что не отслеживается в git
 git add . - добавить всё в отслеживание git
-git commit -m "First commit" -
+git commit -m "First commit" - закоммитим все изменения
 
 
 
