@@ -5,8 +5,9 @@ git init - инициализировать git
 git status - посмотреть что не отслеживается в git
 git add . - добавить всё в отслеживание git
 git commit -m "First commit" - закоммитим все изменения
-git push -u origin main
+git push -u origin main - первая выгрузка
+git push - последующие выгрузки
 
 
 
-после публикации Debug изменить на False!!!
+после публикации проекта, параметр Debug изменить на False!!!
