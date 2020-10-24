@@ -9,4 +9,4 @@ git push -u origin main
 
 
 
-после публикации Debug изменить на False))
+после публикации Debug изменить на False!!!
