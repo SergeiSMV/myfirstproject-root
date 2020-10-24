@@ -8,4 +8,4 @@ git commit -m "First commit" - закоммитим все изменения
 
 
 
-после публикации Debug изменить на False
+после публикации Debug изменить на False!
